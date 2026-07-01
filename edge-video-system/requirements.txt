@@ -1,0 +1,14 @@
+# Core dependencies for edge-video-face-detection system
+
+# Computer vision and deep learning
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# Numerical computing
+numpy>=1.24.0
+
+# (Optional) For progress bars and terminal UI
+# tqdm>=4.65.0
+
+# (Optional) For better logging
+# colorlog>=6.7.0
