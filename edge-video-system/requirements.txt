@@ -1,0 +1,9 @@
+# 视频流人脸检测系统 Python 依赖
+
+# 核心依赖
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# 可选依赖（用于性能优化和部署）
+# opencv-contrib-python>=4.8.0  # 包含额外的OpenCV模块
+# pillow>=10.0.0               # 图像处理（如果需要更多格式支持）
